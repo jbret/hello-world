@@ -1,5 +1,5 @@
 program hello
-   ! adding a comment
+   ! an example comment
    print*, "Hello World!"
 end program hello
 
