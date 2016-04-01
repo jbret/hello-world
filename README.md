@@ -1,7 +1,3 @@
 # hello-world
-test repo
 
-some edits
-
-more edits
-
+A collection of 'Hello World!' programs in different programming languages.
