@@ -6,6 +6,5 @@ To-do:
 Chapel
 IBM X10
 Java
-Lisp
 Swift
 
